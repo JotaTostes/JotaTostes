@@ -42,11 +42,12 @@
   <img align="center" height="80" width="100" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg">
 </div>
 
+
+
+## [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JotaTostes&show_icons=true&theme=radical)](https://github.com/JotaTostes/github-readme-stats&show_icons=true&theme=radical)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JotaTostes&layout=compact)](https://github.com/JotaTostes/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JotaTostes/JotaTostes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JotaTostes/JotaTostes/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JotaTostes/JotaTostes/output/github-contribution-grid-snake.svg">
 </picture> 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JotaTostes&show_icons=true&theme=radical)](https://github.com/JotaTostes/github-readme-stats&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JotaTostes&layout=compact)](https://github.com/JotaTostes/github-readme-stats)
