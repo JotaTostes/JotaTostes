@@ -4,7 +4,7 @@
 
 ###
 
-### Olá, eu sou João Guilherme 👋😄 
+### <h1 align="center">Olá, eu sou João Guilherme 👋😄 </h1>
 
 ![](https://komarev.com/ghpvc/?username=JotaTostes)
 
